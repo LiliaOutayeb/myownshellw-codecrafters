@@ -1,1 +1,2 @@
-# myownshellw-codecrafters
+# my own shell with codecrafters
+this work is still on proress ...
